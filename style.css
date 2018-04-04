@@ -174,7 +174,7 @@ box-shadow:0 0 0 1px rgba(0, 0, 0, 0.2),
 .post_article h1 {font-size:1.8rem;line-height:1.8rem;}
 .post_article h2 {font-size:1.6rem;line-height:1.6rem;}
 .post_article h3 {font-size:1.4rem;line-height:1.4rem;}
-.post_article h4,#comments {font-size:1.2rem;line-height:1.2rem;margin:50px 0 0 0;}
+.post_article h4,#comments {font-size:1rem;line-height:1.2rem;margin:50px 0 0 0;}
 .post_article hr {border:0;display:block;margin: 5% 0;position:relative;text-align:center;letter-spacing: 2rem;}
 .post_article hr:before{content: '...';display: inline-block;position: relative;top: -.5rem;left:.8rem;font-size: 2rem;}
 .post_article ol,.post_article ul {margin:5px 0;padding:10px 40px;background:#fafafa;line-height:28px;}
