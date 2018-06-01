@@ -2,7 +2,7 @@
 
 这是 Adams 主题的子主题。因为该主题经常更新，为了免受更新文件覆盖自己修改的样式，我自建了子主题，并做了一些修改，存放在这里。
 
-DEMO 见：[https://sowrite.cc/](https://sowrite.cc/)
+DEMO 见：[http://chenjia360.com/](http://chenjia360.com/)
 
 ## 安装方法
 本主题依赖于 [Adams](https://biji.io/2017/4905.html)
@@ -17,10 +17,10 @@ DEMO 见：[https://sowrite.cc/](https://sowrite.cc/)
 ```css
 /*
 Theme Name:     Adams Child
-Theme URI:      https://sowrite.cc/
+Theme URI:      http://chenjia360.com/
 Description:    Child theme for the Adams theme 
-Author:         weihaisheng
-Author URI:     https://sowrite.cc/
+Author:         chenjia
+Author URI:     http://chenjia360.com/
 Template:       Adams  <- 这里是文件夹名称
 Version:        2.0
 */
